@@ -312,10 +312,6 @@
           {
             "id": 10,
             "description": "Biscoito, doce, recheado com morango",
-            "vitaminC": {
-              "qty": "Tr",
-              "unit": "mg"
-            },
             "base_qty": 100,
             "base_unit": "g",
             "category_id": 1,
