@@ -131,6 +131,146 @@
               "kj": 1496.9903187171
             }
           }
+        },
+        {
+          "id": 5,
+          "description": "Arroz, tipo 2, cozido",
+          "base_qty": 100,
+          "base_unit": "g",
+          "category_id": 1,
+          "attributes": {
+            "protein": {
+              "qty": 2.56841666666667,
+              "unit": "g"
+            },
+            "lipid": {
+              "qty": 0.361666666666667,
+              "unit": "g"
+            },
+            "cholesterol": {
+              "qty": "NA",
+              "unit": "mg"
+            },
+            "carbohydrate": {
+              "qty": 28.1925833333333,
+              "unit": "g"
+            },
+            "fiber": {
+              "qty": 1.06966666666667,
+              "unit": "g"
+            },
+            "energy": {
+              "kcal": 130.119648333333,
+              "kj": 544.420608626667
+            }
+          }
+        },
+        {
+          "id": 6,
+          "description": "Arroz, tipo 2, cru",
+          "base_qty": 100,
+          "base_unit": "g",
+          "category_id": 1,
+          "attributes": {
+            "protein": {
+              "qty": 7.24188297101449,
+              "unit": "g"
+            },
+            "lipid": {
+              "qty": 0.2755,
+              "unit": "g"
+            },
+            "cholesterol": {
+              "qty": "NA",
+              "unit": "mg"
+            },
+            "carbohydrate": {
+              "qty": 78.8814503623188,
+              "unit": "g"
+            },
+            "fiber": {
+              "qty": 1.71983333333333,
+              "unit": "g"
+            },
+            "energy": {
+              "kcal": 358.116761456522,
+              "kj": 1498.36052993409
+            }
+          }
+        },
+        {
+          "id": 7,
+          "description": "Aveia, flocos, crua",
+          "vitaminC": {
+            "qty": 1.35,
+            "unit": "mg"
+          },
+          "base_qty": 100,
+          "base_unit": "g",
+          "category_id": 1,
+          "attributes": {
+            "protein": {
+              "qty": 13.9210260869565,
+              "unit": "g"
+            },
+            "lipid": {
+              "qty": 8.49666666666667,
+              "unit": "g"
+            },
+            "cholesterol": {
+              "qty": "NA",
+              "unit": "mg"
+            },
+            "carbohydrate": {
+              "qty": 66.6356405797102,
+              "unit": "g"
+            },
+            "fiber": {
+              "qty": 9.13,
+              "unit": "g"
+            },
+            "energy": {
+              "kcal": 393.822689449275,
+              "kj": 1647.75413265577
+            }
+          }
+        },
+        {
+          "id": 8,
+          "description": "Biscoito, doce, maisena",
+          "vitaminC": {
+            "qty": 6.21666666666667,
+            "unit": "mg"
+          },
+          "base_qty": 100,
+          "base_unit": "g",
+          "category_id": 1,
+          "attributes": {
+            "protein": {
+              "qty": 8.07252173913043,
+              "unit": "g"
+            },
+            "lipid": {
+              "qty": 11.9666666666667,
+              "unit": "g"
+            },
+            "cholesterol": {
+              "qty": "NA",
+              "unit": "mg"
+            },
+            "carbohydrate": {
+              "qty": 75.2341449275362,
+              "unit": "g"
+            },
+            "fiber": {
+              "qty": 2.1,
+              "unit": "g"
+            },
+            "energy": {
+              "kcal": 442.819390144928,
+              "kj": 1852.75632836638
+            }
+          }
         }
     ],
     "categorias":[
