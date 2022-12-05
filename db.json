@@ -345,43 +345,6 @@
                 "kj": 1971.3950963942
               }
             }
-          },
-          {
-            "id": 11,
-            "description": "Biscoito, doce, wafer, recheado de chocolate",
-            "vitaminC": {
-              "qty": "Tr",
-              "unit": "mg"
-            },
-            "base_qty": 100,
-            "base_unit": "g",
-            "category_id": 1,
-            "attributes": {
-            "protein": {
-                "qty": 5.56452173913044,
-                "unit": "g"
-              },
-              "lipid": {
-                "qty": 24.6733333333333,
-                "unit": "g"
-              },
-              "cholesterol": {
-                "qty": "Tr",
-                "unit": "mg"
-              },
-              "carbohydrate": {
-                "qty": 67.5354782608696,
-                "unit": "g"
-              },
-              "fiber": {
-                "qty": 1.80333333333333,
-                "unit": "g"
-              },
-              "energy": {
-                "kcal": 502.456857971014,
-                "kj": 2102.27949375072
-              }
-            }
           }
     ],
     "categorias":[
